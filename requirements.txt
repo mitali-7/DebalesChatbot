@@ -1,0 +1,11 @@
+groq
+langchain
+faiss-cpu
+python-dotenv
+beautifulsoup4
+requests
+langchain-community 
+langchain-text-splitters
+langchain-core
+faiss-cpu
+sentence-transformers
