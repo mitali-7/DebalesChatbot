@@ -1,7 +1,9 @@
 ### Debales CLI Chatbot
 
-⚙️ Setup Instructions
+A smart AI assistant for Debales built using a RAG pipeline. It scrapes and indexes website data (i've used the website "debales.ai", you can use another website), uses semantic search for relevant context, and routes queries dynamically between internal knowledge and live web search. Built with Python, LangGraph, FAISS, HuggingFace embeddings, Groq LLM API, and SerpAPI.
 
+
+**Setup Instructions**
 1. Clone the Repository
 
 git clone https://github.com/your-username/DebalesChatbot.git
